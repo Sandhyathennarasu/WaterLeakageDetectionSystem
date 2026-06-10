@@ -37,8 +37,6 @@ The system continuously compares inlet and outlet flow rates, analyzes the data,
 | Dashboard | IoT Cloud Dashboard |
 | Data Analysis | Python |
 
----
-
 ## ⚙️ Working Principle
 
 1. The inlet and outlet flow sensors continuously measure water flow.
