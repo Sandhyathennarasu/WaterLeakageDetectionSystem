@@ -68,13 +68,13 @@ The model analyzes flow-rate variations and differential flow values to improve 
 
 ### Real-Time Monitoring Dashboard
 
-![Dashboard Output](Images/Dashboard_Output.png)
+![Dashboard Output](Dashboard screenshot.jpeg)
 
 ## 🔧 Hardware Setup
 
 ### Prototype Setup
 
-![Hardware Setup](Images/Hardware_Setup.jpg)
+![Hardware Setup](Hardware setup image.jpeg)
 
 ## 🎯 Future Enhancements
 
