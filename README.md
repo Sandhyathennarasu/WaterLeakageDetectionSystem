@@ -6,8 +6,6 @@ The Intelligent IoT-Based Water Leakage Detection System is designed to monitor 
 
 The system continuously compares inlet and outlet flow rates, analyzes the data, and identifies abnormal flow conditions. Leakage information is displayed locally and can be monitored remotely through an IoT dashboard.
 
----
-
 ## 🚀 Features
 
 - Real-time water flow monitoring
@@ -19,8 +17,6 @@ The system continuously compares inlet and outlet flow rates, analyzes the data,
 - Automated alert notifications
 - LCD status display
 
----
-
 ## 🛠️ Hardware Components
 
 - ESP32 Development Board
@@ -29,8 +25,6 @@ The system continuously compares inlet and outlet flow rates, analyzes the data,
 - Buzzer
 - Power Supply Unit
 - PVC Pipeline Setup
-
----
 
 ## 💻 Software & Technologies Used
 
@@ -55,8 +49,6 @@ The system continuously compares inlet and outlet flow rates, analyzes the data,
 6. Alerts and monitoring data are sent to the IoT dashboard.
 7. Users can monitor the system remotely in real time.
 
----
-
 ## 📊 Machine Learning Model
 
 A Random Forest-based Machine Learning model is used to classify water flow conditions as:
@@ -66,8 +58,6 @@ A Random Forest-based Machine Learning model is used to classify water flow cond
 
 The model analyzes flow-rate variations and differential flow values to improve detection accuracy and reduce false alarms.
 
----
-
 ## 📈 Results
 
 - Achieved **93.2% leakage detection accuracy**
@@ -76,24 +66,17 @@ The model analyzes flow-rate variations and differential flow values to improve 
 - Remote dashboard visualization
 - Reliable performance for smart water management applications
 
----
-
 ## 🖥️ Dashboard Output
 
 ### Real-Time Monitoring Dashboard
 
 ![Dashboard Output](Images/Dashboard_Output.png)
 
----
-
 ## 🔧 Hardware Setup
 
 ### Prototype Setup
 
 ![Hardware Setup](Images/Hardware_Setup.jpg)
-
----
-
 
 ## 🎯 Future Enhancements
 
