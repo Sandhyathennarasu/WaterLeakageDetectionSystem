@@ -64,18 +64,6 @@ The model analyzes flow-rate variations and differential flow values to improve 
 - Remote dashboard visualization
 - Reliable performance for smart water management applications
 
-## 🖥️ Dashboard Output
-
-### Real-Time Monitoring Dashboard
-
-![Dashboard Output](Dashboard screenshot.jpeg)
-
-## 🔧 Hardware Setup
-
-### Prototype Setup
-
-![Hardware Setup](Hardware setup image.jpeg)
-
 ## 🎯 Future Enhancements
 
 - Mobile application integration
